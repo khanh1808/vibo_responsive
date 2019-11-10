@@ -1,1 +1,0 @@
-# vibo_responsive
